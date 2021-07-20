@@ -1,0 +1,5 @@
+com\training\librarymanagement\controller\BookController.class
+com\training\librarymanagement\model\Book.class
+com\training\librarymanagement\LibraryManagement.class
+com\training\librarymanagement\repository\BookRepository.class
+com\training\librarymanagement\service\BookService.class
